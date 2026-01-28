@@ -1,2 +1,2 @@
 Hello GitHub Actions Test
-For the second test
+For the second test - 2
