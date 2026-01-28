@@ -2,7 +2,7 @@
 
 This Flask application receives GitHub webhook events, stores them in MongoDB, and displays them in a real-time UI.
 
-## Features
+## Features 
 
 - ✅ Receives GitHub webhooks for Push, Pull Request, and Merge events
 - ✅ Stores events in MongoDB with proper schema
